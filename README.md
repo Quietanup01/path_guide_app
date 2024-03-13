@@ -36,17 +36,24 @@ This video contains all the explanaion of the Project
 **Client:** Flutter
 
 
-## Author
+## Authors
 
+-[Anup](https://github.com/Quietanup01)
 - [Himanshu](https://github.com/nycanshu)
+  
 
 
 ## 🚀 About Me:
-I'm a pre final year student, who has a deep interest in creating cross platform applicatoins. Currently learning and growing😊.
+we are  a pre final year student, who has a deep interest in creating cross platform applicatoins. Currently learning and growing😊.
 
 
 
-## 🔗 Contact me:
+## 🔗 Contact us:
+
+
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://anupvisuals.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anup-ranjan-48078b21a/)
+
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://okay-anshu.web.app)
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/okay-anshu/)
 
